@@ -1,0 +1,59 @@
+.accordion-body{
+    height: 250px;
+    background-color: rgb(171, 200, 233);
+}
+.accordion-body-left{
+    width: 49%;
+    float: left;
+    border-right: solid rgb(0, 140, 255);
+}
+.accordion-body-right{
+    width: 50%;
+    float: right;
+}
+.strong{
+    width: 100%;
+    float: left;
+    margin: 15px;
+}
+.input {
+    max-width: 300px;
+}
+
+.input_text{
+    min-width: 120px;
+}
+.enter-btn{
+    height:90px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(0, 102, 255);
+    color: white;
+    margin-right: 280px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    
+  }
+.h1{
+    text-align: center;
+    background-color: rgb(126, 156, 201);
+    padding: 10px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.ketqua{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 70px;
+    height: 100px;
+    width: 200px;
+    color: rgb(0, 102, 255);
+}
